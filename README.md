@@ -1,8 +1,9 @@
 ## Bem Vindo!! Me Chamo Willian
-### Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Williais&show_icons=true&theme=dark)
-![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Williais&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Williais&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williais&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</p>
 ![Streak Post](https://github-readme-streak-stats.herokuapp.com/?user=Williais&theme=dark)
 
 
