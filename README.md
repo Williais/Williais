@@ -1,7 +1,9 @@
 ## Bem Vindo!! Me Chamo Willian
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williais&include_all_commits=true&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Williais&layout=compact&show_icons=true&theme=dracula)
-![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Williais&layout=compact)
+### Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Williais&show_icons=true&theme=dark)
+![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Williais&layout=compact&theme=dark)
+![Streak Post](https://github-readme-streak-stats.herokuapp.com/?user=Williais&theme=dark)
 
 
 <div style="display: inline_block"><br>
