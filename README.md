@@ -1,12 +1,6 @@
 ## Bem Vindo!! Me Chamo Willian
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=Williais&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=Williais&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
-
 ![Streak Post](https://github-readme-streak-stats.herokuapp.com/?user=Williais&theme=dark)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
